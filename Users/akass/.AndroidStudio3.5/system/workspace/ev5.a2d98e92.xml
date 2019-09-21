@@ -1,57 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AvailableLibraryUpdateStorage">
-    <library-updates>
-      <library-update>
-        <group-id>androidx.test.espresso</group-id>
-        <name>espresso-core</name>
-        <stableOrPreviewVersion>3.3.0-alpha02</stableOrPreviewVersion>
-        <stableVersion>3.2.0</stableVersion>
-        <repository>Google</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-      <library-update>
-        <group-id>androidx.test</group-id>
-        <name>runner</name>
-        <stableOrPreviewVersion>1.3.0-alpha02</stableOrPreviewVersion>
-        <stableVersion>1.2.0</stableVersion>
-        <repository>Google</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-      <library-update>
-        <group-id>com.google.android.material</group-id>
-        <name>material</name>
-        <stableOrPreviewVersion>1.1.0-alpha10</stableOrPreviewVersion>
-        <stableVersion>1.0.0</stableVersion>
-        <repository>Google</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-      <library-update>
-        <group-id>androidx.constraintlayout</group-id>
-        <name>constraintlayout</name>
-        <stableOrPreviewVersion>2.0.0-beta2</stableOrPreviewVersion>
-        <stableVersion>1.1.3</stableVersion>
-        <repository>Google</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-      <library-update>
-        <group-id>junit</group-id>
-        <name>junit</name>
-        <stableOrPreviewVersion>4.13-beta-3</stableOrPreviewVersion>
-        <stableVersion>4.12</stableVersion>
-        <repository>JCenter</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-      <library-update>
-        <group-id>androidx.appcompat</group-id>
-        <name>appcompat</name>
-        <stableOrPreviewVersion>1.1.0</stableOrPreviewVersion>
-        <stableVersion>1.1.0</stableVersion>
-        <repository>Google</repository>
-        <last-search-timestamp>1568967501752</last-search-timestamp>
-      </library-update>
-    </library-updates>
-  </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
@@ -595,12 +543,7 @@
       </map>
     </option>
   </component>
-  <component name="TerminalArrangementManager">
-    <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\ANDROID\app5\" commandHistoryFileName="history-1" />
-    </option>
-  </component>
   <component name="VcsLogIndexCollector">
-    <option name="indexTime" value="647" />
+    <option name="indexTime" value="369" />
   </component>
 </project>
