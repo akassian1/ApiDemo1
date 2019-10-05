@@ -366,7 +366,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="app5" />
+              <option name="name" value="App1_0" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-all/3221gyojl5jsh0helicew7rwx/gradle-5.4.1/src/announce" />
@@ -544,6 +544,6 @@
     </option>
   </component>
   <component name="VcsLogIndexCollector">
-    <option name="indexTime" value="1000" />
+    <option name="indexTime" value="1059" />
   </component>
 </project>
